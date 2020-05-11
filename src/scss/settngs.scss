@@ -1,0 +1,19 @@
+/*================================== SETTINGS =========================*/
+*,
+*:before,
+*:after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 10px;
+}
+
+body {
+  width: 100%;
+  font-family: "Raleway", sans-serif;
+  line-height: 1.5;
+  background-color: #f9f9f9;
+}

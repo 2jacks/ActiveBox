@@ -1,0 +1,21 @@
+@import "vars";
+.copyright {
+  background-color: #313454;
+  padding: 26px 0;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  &__text {
+    font-size: 1.4rem;
+    font-family: "Raleway", sans-serif;
+    color: $grey;
+    &:nth-child(1) {
+      margin-bottom: 4px;
+    }
+  }
+  &__accent {
+    color: $white;
+  }
+}

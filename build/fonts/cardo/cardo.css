@@ -1,0 +1,18 @@
+@font-face {
+    font-family: 'Cardo';
+    src: local('Cardo'), url('cardo.woff2') format('woff2'), url('cardo.woff') format('woff'), url('cardo.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Cardo';
+    src: local('Cardo Italic'), local('Cardo-Italic'), url('cardoitalic.woff2') format('woff2'), url('cardoitalic.woff') format('woff'), url('cardoitalic.ttf') format('truetype');
+    font-weight: 400;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'Cardo';
+    src: local('Cardo Bold'), local('Cardo-Bold'), url('cardobold.woff2') format('woff2'), url('cardobold.woff') format('woff'), url('cardobold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+}
